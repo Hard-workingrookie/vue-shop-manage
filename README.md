@@ -1,5 +1,7 @@
 # vue-shop-manage1
 
+## 使用vue +vue-router +element-ui +vuex+eChart 所有都是静态数据
+
 ## Project setup
 ```
 yarn install
